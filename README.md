@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @catherinecristobal
-- 👀 I’m interested in learning Python, Javascript 
-- 🌱 I’m currently learning cs50 and Python
+- 👋 Hi, I’m CAtherine
+- 👀 I’m interested in any programming language. 
+- 🌱 I’m currently learning Html, Css and little bit of Javascript.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
