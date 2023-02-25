@@ -1,6 +1,6 @@
 - 👋 Hi, I’m CAtherine
 - 👀 I’m interested in programming. 
-- 🌱 I’m currently learning Html, Css and little bit of Javascript.
+- 🌱 I’m currently learning Html, Css and Javascript.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
